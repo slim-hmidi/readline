@@ -1,5 +1,5 @@
 # readline
-An example using readline interface in order to get read test cases values from stdin or a file.
+An example using readline interface in order to read test cases values from stdin or a file.
 
 # install packages
 ```
