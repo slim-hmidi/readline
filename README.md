@@ -7,14 +7,14 @@ npm install
 
 ```
 
-# run read data from stdin:
+# read data from stdin:
 
 ```
 npm run readlineStdin:run
 
 ```
 
-# run read data from file:
+# read data from file:
 
 ```
 npm run readlineFile:run
