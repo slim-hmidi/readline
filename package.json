@@ -1,0 +1,16 @@
+{
+  "name": "readline_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./__tests__/",
+    "readlineStdin:run": "node ./src/readlineFromStdin.js",
+    "readlineFile:run": "node ./src/readlineFromFile.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
